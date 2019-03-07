@@ -1,0 +1,1 @@
+FROM openshift/base-centos7
